@@ -88,5 +88,8 @@
 		"typescript",
 		"npm",
 		"package"
+	],
+	"files": [
+		"dist"
 	]
 }
